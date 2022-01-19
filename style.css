@@ -1,0 +1,14 @@
+/* Universel Code */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* ---------
+    Root
+---------- */
+:root{
+    --primary-color: #3DBE29;
+    --secondary-color: #00D84A;
+}
