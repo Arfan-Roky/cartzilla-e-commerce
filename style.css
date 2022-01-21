@@ -174,3 +174,12 @@ ___________ */
   font-size: 3rem;
   font-weight: 700;
 }
+
+footer >.container > .row > .col > ul >li:hover{
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.social__icon:hover{
+  color: var(--primary-color);
+}
